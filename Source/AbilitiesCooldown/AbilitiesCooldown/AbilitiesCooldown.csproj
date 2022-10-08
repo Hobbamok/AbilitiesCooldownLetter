@@ -60,7 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Alert_Cleric_Can_Cast.cs" />
-    <Compile Include="CooldownNotificationSettings.cs" />
     <Compile Include="HarmonyPatch.cs" />
     <Compile Include="NotificationPatch.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
